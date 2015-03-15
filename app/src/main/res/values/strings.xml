@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">meituan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="movie">
+        <item>电影</item>
+        <item>全部分类</item>
+        <item>酒店</item>
+        <item>周边游</item>
+        <item>休闲娱乐</item>
+        <item>生活服务</item>
+        <item>旅游</item>
+        <item>购物</item>
+        <item>丽人</item>
+        <item>抽奖</item>
+    </string-array>
+
+    <string-array name="whole_city_cbd">
+        <item>附近</item>
+        <item>热门商区</item>
+        <item>朝阳区</item>
+        <item>海淀区</item>
+        <item>丰台区</item>
+        <item>西城区</item>
+        <item>东城区</item>
+        <item>昌平区</item>
+        <item>石景山区</item>
+        <item>通州区</item>
+        <item>大兴区</item>
+        <item>顺义区</item>
+        <item>房山区</item>
+        <item>密云县</item>
+        <item>怀柔区</item>
+        <item>延庆县</item>
+        <item>门头沟</item>
+        <item>平谷区</item>
+    </string-array>
+
+    <string-array name="whole_city_station">
+
+        <item>全城</item>
+        <item>1号线</item>
+        <item>2号线</item>
+        <item>4号线</item>
+        <item>5号线</item>
+        <item>6号线</item>
+        <item>7号线</item>
+        <item>8号线</item>
+        <item>9号线</item>
+        <item>10号线</item>
+        <item>13号线</item>
+        <item>14号线</item>
+        <item>15号线</item>
+        <item>亦庄线</item>
+        <item>八通线</item>
+        <item>大兴线</item>
+        <item>昌平线</item>
+        <item>机场线</item>
+        <item>房山线</item>
+    </string-array>
+    <string-array name="nearest">
+        <item>离我最近</item>
+        <item>好评优先</item>
+        <item>价格最低</item>
+
+    </string-array>
+    <string-array name="select">
+
+        <item>只看在线选座影院</item>
+    </string-array>
+
+    <string-array name="counts">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>1</item>
+        <item>11</item>
+        <item>12</item>
+        <item>5</item>
+        <item>23</item>
+        <item>6</item>
+        <item>7</item>
+        <item>18</item>
+        <item>9</item>
+        <item>4</item>
+        <item>4</item>
+        <item>6</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>
